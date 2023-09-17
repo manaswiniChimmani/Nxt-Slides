@@ -1,0 +1,10 @@
+.nxt-slides-container {
+  display: flex;
+  height: 80vh;
+}
+.lists-container {
+  background-color: #f8fafc;
+  list-style: decimal;
+  width: 23%;
+  overflow: auto;
+}
